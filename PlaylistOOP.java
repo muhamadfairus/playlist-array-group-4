@@ -55,6 +55,16 @@ public class PlaylistOOP {
 
     // Mencari lagu yang tidak ada
     member.cariLagu(listLagu, jumlahLagu, "Hujan");
+
+    System.out.println();
+
+    // Member melihat detail lagu
+    member.lihatDetailLagu(listLagu, jumlahLagu, "Monokrom");
+
+    System.out.println();
+
+    // Member menghitung rata-rata durasi lagu
+    member.hitungRataRataDurasi(listLagu, jumlahLagu);
   }
 
   public static Lagu[] getListLagu() {
