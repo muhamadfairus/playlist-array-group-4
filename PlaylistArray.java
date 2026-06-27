@@ -1,3 +1,14 @@
+/**
+ * Team Assignment 1 - Group 4
+ * Members:
+ * - DEAN PANDEHEN SAHAY [2902760536]
+ * - ADAM NUR HIDAYAT [2902801012]
+ * - ACHMAD ALIF NASRULLOH [2902775065]
+ * - LUKMAN NUL HAKIM [2902765562]
+ * - MUHAMAD FAIRUS [2902792090]
+ */
+
+
 import java.util.Scanner;
 
 public class PlaylistArray {
